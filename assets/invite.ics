@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20211203T110000Z
+DTEND:20211203T123000Z
+DTSTAMP:20211130T094617Z
+ORGANIZER;CN=ieee.ionio.sb@gmail.com:mailto:ieee.ionio.sb@gmail.com
+UID:4mcdji99036jeidbu7bkdrf8s6@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=nikoskaratzas23@gmail.com;X-NUM-GUESTS=0:mailto:nikoskaratzas23@gma
+ il.com
+X-MICROSOFT-CDO-OWNERAPPTID:1784662987
+CREATED:20211130T093438Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nΜην επεξεργαστείτε αυτήν την ενότητα της περιγραφ
+ ής.\n\nΔείτε το συμβάν σας στο https://calendar.google.com/calendar/event?a
+ ction=VIEW&eid=NG1jZGppOTkwMzZqZWlkYnU3YmtkcmY4czYgbmlrb3NrYXJhdHphczIzQG0&
+ tok=MjMjaWVlZS5pb25pby5zYkBnbWFpbC5jb21mNzkzY2JiMzQ1MTU2MTkwODlkZGYxMTc1MDc
+ zNWVlOGZiZjA5NmEy&ctz=Europe%2FAthens&hl=el&es=1.\n-::~:~::~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20211130T094615Z
+LOCATION:Κτήριο Γαληνός\, Ιόνιο Πανεπιστήμιο\, Κέρκυρα 491 32\, Ελλάδα
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Git & Github Seminar by IEEE Ionian SB
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
